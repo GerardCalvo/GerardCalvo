@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there, i'm Gerard👋
+## 🔺 18 years old
+## 📍 Barcelona, Spain.
+### 🎓 ESO, Bachillerato
+### 📱 I'm studying the FP about web aplication development (DAW) at the Barcelona Institute of Technology (ITB). 
+### 📚 I'm learning to program with Kotlin, XML, HTML, CSS, JavaScript, SQL, Java.
 
 <!--
 **GerardCalvo/GerardCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
