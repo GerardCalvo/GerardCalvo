@@ -1,4 +1,4 @@
-# Hi there, i'm Gerard👋
+# Hi, I'm Gerard👋
 ### 🔺 18 years old
 ### 📍 Barcelona, Spain.
 #### 🎓 ESO, Bachillerato
